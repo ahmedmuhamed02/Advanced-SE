@@ -1,0 +1,9 @@
+1,Ezzeldine Ahmed,Male,Doctor
+2,Ahmed Mohsen,Male,Receptionist
+3,Sara Hany,Female,Patient
+4,Dina Mohamed,female,Patient
+5,Yasser Ahmed,Male,Admin
+6,Sabry Mohamed,Male,Doctor
+7,Aya Mohamed,Female,Doctor
+8,Ahmed Mohamed,Male,Patient
+9,Malak Mohamed,Female,Patient
